@@ -1,0 +1,47 @@
+[
+  {
+    "id": "9-powerful-practices-great-teams-kohn-oconnell",
+    "type": "book",
+    "title": "9 Powerful Practices of Really Great Teams",
+    "author": "Stephen E. Kohn, Vincent D. O’Connell",
+    "year": "2013",
+    "publisher": "Career Press",
+    "isbn": "978-1-60163-264-7",
+    "summary": "This book outlines nine essential behaviors that consistently high-performing teams exhibit. Drawing on psychological research and organizational case studies, Stephen E. Kohn and Vincent D. O’Connell provide a practical framework for improving collaboration, trust, communication, and accountability in any team setting. The practices are designed to help team leaders and members foster cohesion and achieve sustained results.",
+    "notes": "Well-suited for managers, HR professionals, and team coaches; grounded in applied behavioral science.",
+    "sourceUrl": "https://www.amazon.com/Powerful-Practices-Really-Great-Teams/dp/1601632641",
+    "certs": [],
+    "domainTags": [
+      "teamwork",
+      "leadership",
+      "organizational development",
+      "collaboration",
+      "management"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "business-fundamentals-global-text-project",
+    "type": "book",
+    "title": "Business Fundamentals",
+    "author": "Global Text Project",
+    "year": "2010",
+    "publisher": "Global Text Project / Connexions, Rice University",
+    "isbn": "",
+    "summary": "This open-access textbook provides an introduction to fundamental business concepts including management, marketing, finance, accounting, and economics. Developed by the Global Text Project and hosted by Rice University's Connexions platform, it is designed for undergraduate students and anyone seeking a foundational understanding of business operations. The modular structure allows instructors to adapt content for specific course needs.",
+    "notes": "Creative Commons licensed (CC BY 3.0); widely adopted in business education worldwide. PDF generated in 2012; original collection revision in 2010.",
+    "sourceUrl": "http://cnx.org/content/col11227/1.4/",
+    "certs": [],
+    "domainTags": [
+      "business",
+      "management",
+      "finance",
+      "marketing",
+      "economics",
+      "open education"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

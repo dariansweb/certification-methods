@@ -1,0 +1,24 @@
+[
+  {
+    "id": "aws-cloud-practitioner-study-guide-piper-clinton",
+    "type": "book",
+    "title": "AWS Certified Cloud Practitioner Study Guide: CLF-C01 Exam",
+    "author": "Ben Piper, David Clinton",
+    "year": "2019",
+    "publisher": "John Wiley & Sons",
+    "isbn": "978-1-119-49071-5",
+    "summary": "This official study guide prepares readers for the AWS Certified Cloud Practitioner CLF-C01 exam. Authored by cloud experts Ben Piper and David Clinton, the book covers AWS core services, cloud concepts, security, pricing models, and deployment strategies. Designed for beginners to cloud computing, it includes review questions, exercises, and real-world examples to help learners gain foundational AWS knowledge.",
+    "notes": "Ideal for those new to cloud computing or AWS; includes online practice tests and downloadable tools.",
+    "sourceUrl": "https://www.wiley.com/en-us/AWS+Certified+Cloud+Practitioner+Study+Guide%3A+CLF+C01+Exam-p-9781119490715",
+    "certs": ["AWS Certified Cloud Practitioner (CLF-C01)"],
+    "domainTags": [
+      "AWS",
+      "cloud computing",
+      "certification",
+      "infrastructure",
+      "DevOps"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

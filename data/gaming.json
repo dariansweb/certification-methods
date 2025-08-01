@@ -1,0 +1,91 @@
+[
+  {
+    "id": "team-leadership-game-industry-seth-spaulding",
+    "type": "book",
+    "title": "Team Leadership in the Game Industry",
+    "author": "Seth Spaulding II",
+    "year": "2009",
+    "publisher": "Course Technology PTR (Cengage Learning)",
+    "isbn": "9781598635809",
+    "summary": "This book provides a deep dive into the role of leadership within the unique context of the game industry. Seth Spaulding II, a veteran art director, outlines practical advice for managing interdisciplinary teams of artists, programmers, designers, and producers. It explores communication, conflict resolution, studio culture, scheduling, and morale in both AAA and indie studio environments.",
+    "notes": "One of the few titles specifically addressing creative team management in game development. Includes interviews with industry veterans and case studies.",
+    "sourceUrl": "https://www.cengage.com/c/team-leadership-in-the-game-industry-1e-spaulding/9781598635809/",
+    "certs": [],
+    "domainTags": [
+      "game development",
+      "team leadership",
+      "creative management",
+      "studio culture",
+      "project management"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "gamification-by-design-zichermann-cunningham",
+    "type": "book",
+    "title": "Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps",
+    "author": "Gabe Zichermann, Christopher Cunningham",
+    "year": "2011",
+    "publisher": "O'Reilly Media",
+    "isbn": "9781449397676",
+    "summary": "This book introduces the fundamentals of gamification—applying game mechanics and design principles to non-game contexts. Gabe Zichermann and Christopher Cunningham provide practical advice for integrating points, badges, leaderboards, and engagement loops into web and mobile apps. The book includes psychology insights, design frameworks, and real-world examples to help developers and product teams boost user engagement.",
+    "notes": "Influential in early gamification adoption; some concepts feel dated but still foundational. Pairs well with behavior design literature.",
+    "sourceUrl": "https://www.oreilly.com/library/view/gamification-by-design/9781449397676/",
+    "certs": [],
+    "domainTags": [
+      "gamification",
+      "UX",
+      "behavior design",
+      "game mechanics",
+      "mobile apps",
+      "user engagement"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "essentials-of-game-theory-morgan-claypool",
+    "type": "book",
+    "title": "Essentials of Game Theory",
+    "author": "Kevin Leyton-Brown, Yoav Shoham",
+    "year": "2008",
+    "publisher": "Morgan & Claypool",
+    "isbn": "9781598295948",
+    "summary": "This concise and rigorous text offers a clear introduction to the fundamental concepts of game theory. Focused on the essentials needed for AI, economics, and multi-agent systems, the book covers strategic and extensive-form games, repeated games, and stochastic games with a formal but accessible approach. Suitable for students and professionals alike.",
+    "notes": "Originally part of the Synthesis Lectures on Artificial Intelligence and Machine Learning; includes exercises and theoretical examples.",
+    "sourceUrl": "https://doi.org/10.2200/S00108ED1V01Y200802AIM003",
+    "certs": [],
+    "domainTags": [
+      "game theory",
+      "AI",
+      "multi-agent systems",
+      "economics",
+      "strategic decision-making"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "distributed-game-development-tim-fields",
+    "type": "book",
+    "title": "Distributed Game Development: Harnessing Global Talent to Create Winning Games",
+    "author": "Tim Fields",
+    "year": "2010",
+    "publisher": "Focal Press (Elsevier)",
+    "isbn": "9780240813635",
+    "summary": "This book explores the strategies, tools, and challenges of managing game development projects across distributed teams. Tim Fields shares real-world case studies, communication workflows, cultural considerations, and production methodologies that allow studios to effectively leverage global talent while maintaining quality and cohesion. It’s a must-read for producers and studio managers navigating remote or international game teams.",
+    "notes": "Ahead of its time in remote team dynamics. Particularly useful for indie studios scaling up or AAA studios outsourcing key roles.",
+    "sourceUrl": "https://www.elsevier.com/books/distributed-game-development/fields/978-0-240-81363-5",
+    "certs": [],
+    "domainTags": [
+      "game development",
+      "project management",
+      "distributed teams",
+      "remote work",
+      "production"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

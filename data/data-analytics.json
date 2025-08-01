@@ -1,0 +1,48 @@
+[
+  {
+    "id": "advanced-algorithms-data-structures-la-rocca",
+    "type": "book",
+    "title": "Advanced Algorithms and Data Structures",
+    "author": "Marcello La Rocca",
+    "year": "2021",
+    "publisher": "Manning Publications",
+    "isbn": "9781617295485",
+    "summary": "This book offers a comprehensive guide to advanced algorithmic concepts and data structures, with a focus on solving complex computing problems. Marcello La Rocca presents both theoretical underpinnings and practical implementation strategies, bridging classic computer science with real-world software engineering. The book covers topics such as graph theory, dynamic programming, amortized analysis, trees, heaps, and optimization techniques.",
+    "notes": "Includes mathematically rigorous explanations along with code examples in JavaScript and pseudocode. Great for advanced students, engineers preparing for technical interviews, and anyone interested in algorithm design.",
+    "sourceUrl": "https://www.manning.com/books/advanced-algorithms-and-data-structures",
+    "certs": [],
+    "domainTags": [
+      "algorithms",
+      "data structures",
+      "computer science",
+      "optimization",
+      "theory",
+      "performance engineering"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "big-data-glossary-pete-warden",
+    "type": "book",
+    "title": "Big Data Glossary",
+    "author": "Pete Warden",
+    "year": "2011",
+    "publisher": "O'Reilly Media",
+    "isbn": "9781449313560",
+    "summary": "This compact glossary by Pete Warden defines and explains the key terms and technologies shaping the big data landscape. Covering foundational tools like Hadoop, Pig, and MapReduce, as well as broader concepts like NoSQL, data warehousing, and machine learning, the book serves as a practical reference guide for professionals trying to navigate the fast-growing data ecosystem.",
+    "notes": "Best suited for newcomers or cross-functional teams wanting to demystify technical big data lingo; includes brief, approachable definitions without deep technical dives.",
+    "sourceUrl": "https://www.oreilly.com/library/view/big-data-glossary/9781449313560/",
+    "certs": [],
+    "domainTags": [
+      "big data",
+      "data engineering",
+      "data science",
+      "glossary",
+      "Hadoop",
+      "NoSQL"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

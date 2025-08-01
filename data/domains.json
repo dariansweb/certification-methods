@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "general-education",
+    "name": "General Education",
+    "emoji": "🎓",
+    "description": "Foundational and interdisciplinary wisdom."
+  },
+  {
+    "slug": "certifications",
+    "name": "Certifications",
+    "emoji": "📚",
+    "description": "Study material aligned to cert objectives."
+  },
+  {
+    "slug": "business",
+    "name": "Business",
+    "emoji": "💼",
+    "description": "Leadership, operations, and strategic thinking."
+  },
+  {
+    "slug": "graphic-design",
+    "name": "Graphic Design",
+    "emoji": "🎨",
+    "description": "Creativity, UX, and visual storytelling."
+  },
+  {
+    "slug": "computer-science",
+    "name": "Computer Science",
+    "emoji": "🖥️",
+    "description": "Theory, algorithms, and software systems."
+  },
+  {
+    "slug": "linux",
+    "name": "Linux",
+    "emoji": "🐧",
+    "description": "Distros, CLI mastery, and open source power."
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "emoji": "🪟",
+    "description": "Windows internals, AD, and enterprise tools."
+  },
+  {
+    "slug": "web",
+    "name": "Web Development",
+    "emoji": "🌐",
+    "description": "Frontend, backend, and full-stack dev."
+  },
+  {
+    "slug": "mobile",
+    "name": "Mobile Systems",
+    "emoji": "📱",
+    "description": "Mobile OS, apps, and responsive UX."
+  },
+  {
+    "slug": "iot",
+    "name": "IoT & Devices",
+    "emoji": "📡",
+    "description": "Connected devices, hardware, and automation."
+  },
+  {
+    "slug": "gaming",
+    "name": "Gaming",
+    "emoji": "🎮",
+    "description": "Game dev, mechanics, and gamification."
+  },
+  {
+    "slug": "hacking",
+    "name": "Hacking / Offensive Security",
+    "emoji": "💀",
+    "description": "Red team, exploitation, and adversarial thinking."
+  },
+  {
+    "slug": "developers",
+    "name": "Developers",
+    "emoji": "👨‍💻",
+    "description": "Code, IDEs, engineering craft."
+  },
+  {
+    "slug": "databases",
+    "name": "Databases",
+    "emoji": "🗃️",
+    "description": "SQL, NoSQL, data modeling, and storage."
+  },
+  {
+    "slug": "data-analytics",
+    "name": "Data Analytics",
+    "emoji": "📊",
+    "description": "Dashboards, BI, and data insights."
+  },
+  {
+    "slug": "ai-ml",
+    "name": "AI / ML / DL",
+    "emoji": "🧠",
+    "description": "Artificial minds, training models, deep magic."
+  }
+]

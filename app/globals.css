@@ -1,8 +1,10 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #faf8f6; /* soft ivory, like parchment */
   --foreground: #171717;
+  --accent: #8b5cf6; /* violet for royal titles, sacred symbols */
+  --muted: #555;
 }
 
 @theme inline {
@@ -16,11 +18,146 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --accent: #c084fc;
+    --muted: #999;
   }
 }
 
 body {
-  background: var(--background);
+  @apply antialiased leading-relaxed text-[17px];
+  background-color: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, sans-serif;
+  scroll-behavior: smooth;
+  font-feature-settings: "liga", "clig", "kern";
 }
+
+/* =============================== */
+/*        Table Styling            */
+/* =============================== */
+nav a {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+
+/* =============================== */
+/*        Scrollbar of Order       */
+/* =============================== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #c5bfb1; /* aged parchment scroll handle */
+  border-radius: 10px;
+}
+
+/* =============================== */
+/*        Universal Typography     */
+/* =============================== */
+
+h1, h2, h3, h4 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.25rem;
+  letter-spacing: -0.02em;
+}
+h2 {
+  font-size: 1.75rem;
+  margin-top: 2rem;
+  border-bottom: 1px solid var(--muted);
+  padding-bottom: 0.25rem;
+}
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1.75;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* =============================== */
+/*        Code and Blocks          */
+/* =============================== */
+code {
+  font-family: var(--font-mono), monospace;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0.15em 0.4em;
+  border-radius: 0.3rem;
+  font-size: 0.9em;
+  color: #8b5cf6;
+}
+
+pre {
+  background: #f3f1e9;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  color: #2d2a2a;
+}
+
+blockquote {
+  margin: 1rem 0;
+  padding-left: 1rem;
+  border-left: 4px solid var(--accent);
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* =============================== */
+/*        Selection Elegance       */
+/* =============================== */
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* =============================== */
+/*        Images and Media         */
+/* =============================== */
+img {
+  border-radius: 0.5rem;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* =============================== */
+/*        Table Styling            */
+/* =============================== */
+table {
+  border-collapse: collapse;
+  margin-top: 1.5rem;
+  width: 100%;
+  font-size: 0.95rem;
+}
+th, td {
+  padding: 0.75rem 1rem;
+  border: 1px solid #ccc;
+}
+th {
+  background-color: #f5f5f5;
+  font-weight: 600;
+  text-align: left;
+}
+

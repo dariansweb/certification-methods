@@ -1,0 +1,94 @@
+[
+  {
+    "id": "big-book-powershell-gotchas-powershell-org",
+    "type": "book",
+    "title": "The Big Book of PowerShell Gotchas",
+    "author": "PowerShell.org (Multiple Contributors)",
+    "year": "2015",
+    "publisher": "PowerShell.org",
+    "isbn": "",
+    "summary": "This book compiles dozens of real-world PowerShell 'gotchas' — unexpected behaviors, edge cases, and scripting mistakes that even experienced admins can fall into. Created by contributors from the PowerShell.org community, the book offers practical workarounds, safer practices, and sharp advice for writing more robust scripts. It’s a must-read for sysadmins, DevOps engineers, and PowerShell scripters who want to level up their reliability and debugging skills.",
+    "notes": "Community-built and freely distributed by PowerShell.org. Very hands-on and focused on mistakes-to-avoid, not just best practices. Great for learners ready to get humbled.",
+    "sourceUrl": "https://leanpub.com/gotchas",
+    "certs": [],
+    "domainTags": [
+      "PowerShell",
+      "Windows administration",
+      "scripting",
+      "DevOps",
+      "troubleshooting"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "windows-sysinternals-admin-ref-russinovich-margosis",
+    "type": "book",
+    "title": "Windows Sysinternals Administrator’s Reference",
+    "author": "Mark Russinovich, Aaron Margosis",
+    "year": "2011",
+    "publisher": "Microsoft Press",
+    "isbn": "9780735663793",
+    "summary": "This in-depth guide provides comprehensive coverage of the Sysinternals tools suite — a powerful set of diagnostic, troubleshooting, and management utilities for Microsoft Windows. Written by Sysinternals creator Mark Russinovich and Windows expert Aaron Margosis, the book demonstrates how to use tools like Process Explorer, Autoruns, Procmon, PsExec, and more to uncover hidden system behavior, troubleshoot issues, and secure Windows environments.",
+    "notes": "Still considered the definitive reference on Sysinternals. Includes real-world forensic use cases and admin tips. Suitable for advanced users, system administrators, and security professionals.",
+    "sourceUrl": "https://learn.microsoft.com/en-us/sysinternals/",
+    "certs": [],
+    "domainTags": [
+      "Windows",
+      "Sysinternals",
+      "system administration",
+      "forensics",
+      "debugging",
+      "security",
+      "Microsoft"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "azure-serverless-succinctly-sander-rossel",
+    "type": "book",
+    "title": "Azure Serverless Succinctly",
+    "author": "Sander Rossel",
+    "year": "2019",
+    "publisher": "Syncfusion, Inc.",
+    "isbn": "978-1-64200-201-0",
+    "summary": "This concise guide introduces readers to the core components of Microsoft Azure's serverless offerings, including Azure Functions, Logic Apps, Event Grid, and Cosmos DB. Sander Rossel provides code examples, architecture diagrams, and real-world scenarios to help developers build scalable, event-driven cloud applications with minimal infrastructure overhead.",
+    "notes": "Part of the free Succinctly series from Syncfusion. Great for .NET developers transitioning to cloud-native, serverless design patterns.",
+    "sourceUrl": "https://www.syncfusion.com/succinctly-free-ebooks/azure-serverless-succinctly",
+    "certs": [],
+    "domainTags": [
+      "Azure",
+      "serverless",
+      "cloud computing",
+      "event-driven architecture",
+      "DevOps",
+      "functions-as-a-service"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "fundamentals-of-azure-microsoft-freebook",
+    "type": "book",
+    "title": "Fundamentals of Azure",
+    "author": "Michael S. Collier, Robin E. Shahan",
+    "year": "2016",
+    "publisher": "Microsoft Press",
+    "isbn": "978-0-7356-9722-5",
+    "summary": "This official Microsoft free ebook introduces the core principles, architecture, and services of the Azure cloud platform. Covering key topics like resource groups, storage, networking, and identity, it offers a foundational understanding for IT professionals, developers, and technical decision-makers transitioning to cloud-based environments.",
+    "notes": "Part of Microsoft’s free book series; while some services have evolved since publication, the fundamental cloud concepts and Azure structure remain relevant.",
+    "sourceUrl": "https://azure.microsoft.com/en-us/resources/fundamentals-of-azure-second-edition/",
+    "certs": ["Microsoft Certified: Azure Fundamentals (AZ-900)"],
+    "domainTags": [
+      "Azure",
+      "cloud computing",
+      "Microsoft",
+      "IT infrastructure",
+      "DevOps",
+      "cloud architecture"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

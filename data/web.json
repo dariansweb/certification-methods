@@ -1,0 +1,73 @@
+[
+  {
+    "id": "scalability-rules-abbott-fisher",
+    "type": "book",
+    "title": "Scalability Rules: 50 Principles for Scaling Web Sites",
+    "author": "Martin L. Abbott, Michael T. Fisher",
+    "year": "2011",
+    "publisher": "Addison-Wesley (Pearson Education)",
+    "isbn": "978-0-321-75388-5",
+    "summary": "This book presents 50 practical and proven rules for scaling web applications and infrastructure. Written by two former eBay technology executives, it provides concise principles for improving performance, availability, maintainability, and elasticity in modern web systems. Each rule is accompanied by context, tradeoffs, and implementation advice, making it an essential field manual for architects, DevOps teams, and technical leads.",
+    "notes": "Companion to their earlier title *The Art of Scalability*. Highly actionable and written with large-scale, high-traffic environments in mind.",
+    "sourceUrl": "https://www.informit.com/store/scalability-rules-50-principles-for-scaling-web-sites-9780321753885",
+    "certs": [],
+    "domainTags": [
+      "scalability",
+      "web architecture",
+      "DevOps",
+      "performance",
+      "system design",
+      "infrastructure"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "principles-of-beautiful-web-design-beaird-george",
+    "type": "book",
+    "title": "The Principles of Beautiful Web Design",
+    "author": "Jason Beaird, James George",
+    "year": "2014",
+    "publisher": "SitePoint",
+    "isbn": "978-0-9922794-4-8",
+    "summary": "This book provides a practical and accessible introduction to the visual side of web design, including layout, color, texture, typography, and imagery. Aimed at developers, content creators, and self-taught designers, it demystifies the core principles of good design and applies them in the context of modern web projects. With clear explanations and visual examples, the book helps readers create more aesthetically pleasing and user-friendly websites.",
+    "notes": "Originally authored by Jason Beaird and expanded in later editions with James George. Continues to be a favorite for bridging the gap between coding and design.",
+    "sourceUrl": "https://www.sitepoint.com/premium/books/the-principles-of-beautiful-web-design",
+    "certs": [],
+    "domainTags": [
+      "web design",
+      "visual design",
+      "UX",
+      "frontend",
+      "color theory",
+      "typography",
+      "layout"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "handbook-human-factors-web-design-vu-proctor",
+    "type": "book",
+    "title": "Handbook of Human Factors in Web Design",
+    "author": "Kim-Phuong L. Vu, Robert W. Proctor",
+    "year": "2005",
+    "publisher": "CRC Press",
+    "isbn": "9780805851285",
+    "summary": "This comprehensive academic reference explores the psychological, cognitive, and ergonomic principles that influence how people interact with web-based interfaces. Edited by Kim-Phuong L. Vu and Robert W. Proctor, the book brings together contributions from leading researchers in human-computer interaction (HCI), covering topics such as information architecture, user behavior, interface usability, accessibility, and international design standards.",
+    "notes": "Intended for HCI professionals, UX researchers, and advanced design students. Balances theory with empirical findings; essential for deeply understanding the 'why' behind effective web design.",
+    "sourceUrl": "https://www.routledge.com/Handbook-of-Human-Factors-in-Web-Design/Vu-Proctor/p/book/9780805851285",
+    "certs": [],
+    "domainTags": [
+      "human-computer interaction",
+      "UX",
+      "usability",
+      "accessibility",
+      "web design",
+      "cognitive science",
+      "HCI"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

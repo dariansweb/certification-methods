@@ -1,0 +1,25 @@
+[
+  {
+    "id": "algorithms-intelligent-web-mcilwraith-marmanis-babenko",
+    "type": "book",
+    "title": "Algorithms of the Intelligent Web, Second Edition",
+    "author": "Douglas G. McIlwraith, Haralambos Marmanis, Dmitry Babenko",
+    "year": "2016",
+    "publisher": "Manning Publications",
+    "isbn": "9781617292583",
+    "summary": "This book explores the machine learning algorithms that power modern intelligent web applications. The authors walk readers through implementing personalized recommendations, predictive analytics, and intelligent search using practical examples in Python. The second edition updates content with new techniques and improved practices relevant to today’s data-driven web applications.",
+    "notes": "Includes hands-on projects and Python code samples; great for developers looking to build smarter web applications using real data and scalable ML techniques.",
+    "sourceUrl": "https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition",
+    "certs": [],
+    "domainTags": [
+      "machine learning",
+      "web applications",
+      "recommendation systems",
+      "search",
+      "Python",
+      "AI"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "critique-ansi-sql-isolation-levels-msr-tr-95-51",
+    "type": "technical-report",
+    "title": "A Critique of ANSI SQL Isolation Levels",
+    "author": "Microsoft Research",
+    "year": "1995",
+    "publisher": "Microsoft Research, Advanced Technology Division",
+    "isbn": "",
+    "summary": "This influential technical report analyzes the ANSI SQL standard's definitions of isolation levels, highlighting ambiguities and inconsistencies in how isolation is implemented in relational databases. The authors propose clearer definitions using formal serializability and anomaly-based reasoning, contributing to better understanding of isolation semantics in transactional systems.",
+    "notes": "Originally published as MSR-TR-95-51; remains highly cited in database systems research. The paper influenced how DBMS vendors interpret isolation levels like READ COMMITTED and REPEATABLE READ.",
+    "sourceUrl": "https://www.microsoft.com/en-us/research/publication/a-critique-of-ansi-sql-isolation-levels/",
+    "certs": [],
+    "domainTags": [
+      "databases",
+      "SQL",
+      "isolation levels",
+      "transactional systems",
+      "Microsoft Research",
+      "database theory"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "advanced-database-query-systems-yan-ma",
+    "type": "book",
+    "title": "Advanced Database Query Systems: Techniques, Applications and Technologies",
+    "author": "Li Yan, Zongmin Ma",
+    "year": "2009",
+    "publisher": "IGI Global",
+    "isbn": "9781605662428",
+    "summary": "This academic volume explores cutting-edge methods and technologies in advanced database query systems. It covers a broad range of topics including intelligent query processing, semantic query expansion, knowledge-based systems, and query optimization. The book presents both theoretical foundations and practical applications, with case studies and methodologies contributed by international researchers in the field.",
+    "notes": "Designed for graduate students, researchers, and advanced database professionals. Includes multiple chapters on fuzzy logic, ontologies, and intelligent agents in query processing.",
+    "sourceUrl": "https://www.igi-global.com/book/advanced-database-query-systems/36942",
+    "certs": [],
+    "domainTags": [
+      "databases",
+      "query systems",
+      "knowledge-based systems",
+      "semantic web",
+      "intelligent systems"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "automated-db-design-tuning-nicholas-bruno",
+    "type": "book",
+    "title": "Automated Physical Database Design and Tuning",
+    "author": "Nicholas Bruno",
+    "year": "2023",
+    "publisher": "CRC Press",
+    "isbn": "9781032201815",
+    "summary": "This book presents a deep dive into the techniques and algorithms behind automating physical database design and performance tuning. Nicholas Bruno—well-known for his research in automated tuning at Microsoft—explores how modern systems optimize index selection, partitioning, and materialized views. The book combines theoretical foundations with implementation strategies, making it valuable for both academic researchers and enterprise DBAs.",
+    "notes": "Focuses on relational databases with real-world implementation references. Covers tools like SQL Server’s Database Engine Tuning Advisor (DTA).",
+    "sourceUrl": "https://www.routledge.com/Automated-Physical-Database-Design-and-Tuning/Bruno/p/book/9781032201815",
+    "certs": [],
+    "domainTags": [
+      "databases",
+      "performance tuning",
+      "index optimization",
+      "automated systems",
+      "physical design"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

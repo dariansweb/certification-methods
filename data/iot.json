@@ -1,0 +1,72 @@
+[
+  {
+    "id": "getting-started-iot-cuno-pfister",
+    "type": "book",
+    "title": "Getting Started with the Internet of Things",
+    "author": "Cuno Pfister",
+    "year": "2011",
+    "publisher": "O'Reilly Media",
+    "isbn": "9781449393579",
+    "summary": "This practical guide introduces developers and hobbyists to the basics of the Internet of Things (IoT). Author Cuno Pfister demonstrates how to connect sensors, actuators, and devices to the cloud using embedded systems like Netduino and simple web protocols. The book covers data collection, HTTP communication, and basic cloud integration — making it a foundational text for anyone entering the world of networked physical computing.",
+    "notes": "Written during the early IoT boom; some tooling is dated (e.g., Netduino), but core concepts around device-cloud architecture remain useful.",
+    "sourceUrl": "https://www.oreilly.com/library/view/getting-started-with/9781449393579/",
+    "certs": [],
+    "domainTags": [
+      "IoT",
+      "embedded systems",
+      "cloud computing",
+      "hardware",
+      "sensors",
+      "physical computing"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "internet-of-things-for-architects-perry-lea",
+    "type": "book",
+    "title": "Internet of Things for Architects: Architecting IoT Solutions by Implementing Sensors, Communication Infrastructure, Edge Computing, Analytics, and Security",
+    "author": "Perry Lea",
+    "year": "2018",
+    "publisher": "Packt Publishing",
+    "isbn": "978-1-78847-059-9",
+    "summary": "This comprehensive guide explores the architectural design of large-scale IoT systems. Perry Lea walks through the entire IoT solution stack—from sensors and embedded platforms to communication protocols, edge/fog computing, big data analytics, machine learning, and cybersecurity. The book combines theory and practice to help system architects, engineers, and decision-makers design scalable and secure IoT ecosystems.",
+    "notes": "More advanced than introductory IoT texts; intended for architects, system engineers, and tech leads working with large-scale connected systems.",
+    "sourceUrl": "https://www.packtpub.com/product/internet-of-things-for-architects/9781788470599",
+    "certs": [],
+    "domainTags": [
+      "IoT",
+      "architecture",
+      "edge computing",
+      "cybersecurity",
+      "data analytics",
+      "embedded systems",
+      "systems design"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "mobile-robotics-berry",
+    "type": "book",
+    "title": "Mobile Robotics for Multidisciplinary Study",
+    "author": "Carlotta A. Berry",
+    "year": "2012",
+    "publisher": "Morgan & Claypool Publishers",
+    "isbn": "9781608457991",
+    "summary": "This book introduces mobile robotics through an interdisciplinary lens, combining electrical engineering, computer science, and mechanical systems. Written by Carlotta A. Berry, it provides foundational knowledge in sensors, control systems, programming, and embedded platforms, with an emphasis on project-based learning and real-world experimentation. It’s ideal for undergraduate STEM students in multidisciplinary courses.",
+    "notes": "Part of the Morgan & Claypool Synthesis Lectures series; accessible for students new to robotics. Includes lab assignments, learning objectives, and practical examples.",
+    "sourceUrl": "https://doi.org/10.2200/S00412ED1V01Y201206ENG017",
+    "certs": [],
+    "domainTags": [
+      "robotics",
+      "engineering",
+      "embedded systems",
+      "STEM education",
+      "sensors",
+      "multidisciplinary learning"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

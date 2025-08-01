@@ -1,0 +1,95 @@
+[
+  {
+    "id": "pragmatic-systemd-david-both",
+    "type": "book",
+    "title": "Pragmatic systemd",
+    "author": "David Both",
+    "year": "2019",
+    "publisher": "Opensource.com / Red Hat",
+    "isbn": "",
+    "summary": "This book provides a hands-on introduction to using systemd, the modern init system and service manager used by most major Linux distributions. David Both covers everything from basic service management to custom unit files, logging, and dependency handling. Written for sysadmins, developers, and Linux power users, the book balances real-world examples with technical depth to help users master systemd efficiently.",
+    "notes": "Originally published as a series of articles on Opensource.com and compiled into a standalone book; highly readable and practical. Red Hat endorsed.",
+    "sourceUrl": "https://opensource.com/article/19/3/pragmatic-systemd-book",
+    "certs": [],
+    "domainTags": [
+      "Linux",
+      "systemd",
+      "system administration",
+      "Red Hat",
+      "init systems",
+      "service management"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "linux-pocket-guide-daniel-barrett",
+    "type": "book",
+    "title": "Linux Pocket Guide",
+    "author": "Daniel J. Barrett",
+    "year": "2016",
+    "publisher": "O'Reilly Media",
+    "isbn": "978-1-491-92757-1",
+    "summary": "This quick-reference guide offers concise and practical information on using Linux effectively from the command line. Covering common commands, system management, text processing, filesystems, networking, and more, the book is ideal for beginners and experienced users alike. Daniel J. Barrett presents examples and tips in a portable format that makes it easy to carry and consult on the go.",
+    "notes": "Compact, beginner-friendly, and cross-distro compatible. Perfect for sysadmins, developers, and students. Part of O’Reilly’s popular pocket guide series.",
+    "sourceUrl": "https://www.oreilly.com/library/view/linux-pocket-guide/9781491927588/",
+    "certs": [],
+    "domainTags": [
+      "Linux",
+      "command line",
+      "shell",
+      "system administration",
+      "UNIX tools"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "bsd-hacks-dru-lavigne",
+    "type": "book",
+    "title": "BSD Hacks",
+    "author": "Dru Lavigne",
+    "year": "2004",
+    "publisher": "O'Reilly Media",
+    "isbn": "0-596-00679-9",
+    "summary": "A classic from O’Reilly’s 'Hacks' series, this book delivers 100 practical tips and tricks for mastering BSD systems, including FreeBSD, OpenBSD, and NetBSD. Covering everything from system installation and package management to networking, security, and automation, *BSD Hacks* is a command-line playground for users who want to sharpen their UNIX skills and take full control of their systems.",
+    "notes": "Still highly relevant for BSD users and lovers of UNIX philosophy. Authored by Dru Lavigne, a renowned BSD advocate and educator.",
+    "sourceUrl": "https://www.oreilly.com/library/view/bsd-hacks/0596006799/",
+    "certs": [],
+    "domainTags": [
+      "BSD",
+      "FreeBSD",
+      "OpenBSD",
+      "NetBSD",
+      "UNIX",
+      "system administration",
+      "hacks"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "securing-optimizing-linux-hacking-solution",
+    "type": "book",
+    "title": "Securing and Optimizing Linux: The Hacking Solution (Version 3.0)",
+    "author": "Bruno Mourani (Graphics), Edited by Ted Nackad",
+    "year": "2002",
+    "publisher": "Open Network Architecture, Inc.",
+    "isbn": "0-9688793-1-4",
+    "summary": "This massive 1200-page guide offers an all-in-one deep dive into Linux system administration, performance tuning, and security hardening. Aimed at intermediate to advanced users, the book covers topics such as kernel compilation, service configuration, network setup, firewall rules, encryption, server hardening, and penetration testing — all with a practical, script-heavy approach. Originally a free, open-source publication, it became a foundational reference for DIY sysadmins and power users.",
+    "notes": "A legendary community-built reference from the early 2000s Linux underground. Still useful for legacy systems and foundational security principles.",
+    "sourceUrl": "https://www.linuxsecurity.com/docs/Securing-Optimizing-Linux-The-Hacking-Solution-v3.0.pdf",
+    "certs": [],
+    "domainTags": [
+      "Linux",
+      "system administration",
+      "security",
+      "optimization",
+      "networking",
+      "open source",
+      "legacy systems"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

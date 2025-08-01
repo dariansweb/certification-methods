@@ -1,0 +1,68 @@
+[
+  {
+    "id": "apis-strategy-guide-jacobson-brail-woods",
+    "type": "book",
+    "title": "APIs: A Strategy Guide",
+    "author": "Daniel Jacobson, Greg Brail, Dan Woods",
+    "year": "2011",
+    "publisher": "O'Reilly Media",
+    "isbn": "9781449308924",
+    "summary": "This book offers a strategic perspective on designing and managing APIs for business value and technical success. It goes beyond the code to explore how APIs can transform organizations, open new markets, and create platform ecosystems. The authors—experienced in both enterprise and startup contexts—provide real-world case studies, design patterns, and business models for successful API programs.",
+    "notes": "Ideal for product managers, architects, and business leaders; foundational in the API economy era. Authored by Netflix and Apigee veterans.",
+    "sourceUrl": "https://www.oreilly.com/library/view/apis-a-strategy/9781449308924/",
+    "certs": [],
+    "domainTags": [
+      "APIs",
+      "digital strategy",
+      "platforms",
+      "architecture",
+      "product management"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "data-source-handbook-pete-warden",
+    "type": "book",
+    "title": "Data Source Handbook",
+    "author": "Pete Warden",
+    "year": "2011",
+    "publisher": "O'Reilly Media",
+    "isbn": "9781449303882",
+    "summary": "This book serves as a curated guide to publicly available datasets for developers and data scientists. Pete Warden organizes dozens of data sources by topic—including government, social, financial, scientific, and geographic data—and explains how to access them via APIs, scraping, or downloads. The book emphasizes practical application and quick integration into real-world projects.",
+    "notes": "Short, practical, and API-focused. Though some URLs are dated, the framework for exploring public data is still widely applicable.",
+    "sourceUrl": "https://www.oreilly.com/library/view/data-source-handbook/9781449303882/",
+    "certs": [],
+    "domainTags": [
+      "data science",
+      "data sources",
+      "open data",
+      "APIs",
+      "web scraping"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "irresistible-apis-kirsten-hunter",
+    "type": "book",
+    "title": "Irresistible APIs: Designing Web APIs That Developers Will Love",
+    "author": "Kirsten L. Hunter",
+    "year": "2016",
+    "publisher": "Manning Publications",
+    "isbn": "9781617292552",
+    "summary": "This book guides readers through designing APIs that are not only functional but enjoyable to use. Kirsten L. Hunter covers best practices for creating APIs with excellent developer experience, including endpoint design, versioning, security, documentation, and usability. Through practical examples and strategic insights, the book empowers teams to craft APIs that meet business goals and earn developer loyalty.",
+    "notes": "Focuses on REST APIs but applicable to any web API format. Strong emphasis on empathy, usability, and long-term maintainability.",
+    "sourceUrl": "https://www.manning.com/books/irresistible-apis",
+    "certs": [],
+    "domainTags": [
+      "APIs",
+      "developer experience",
+      "REST",
+      "product design",
+      "web development"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

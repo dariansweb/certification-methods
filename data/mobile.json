@@ -1,0 +1,48 @@
+[
+  {
+    "id": "build-mobile-websites-apps-sitepoint",
+    "type": "book",
+    "title": "Build Mobile Websites and Apps for Smart Devices",
+    "author": "Earle Castledine, Myles Eftos, Max Wheeler",
+    "year": "2011",
+    "publisher": "SitePoint Pty. Ltd.",
+    "isbn": "978-0-9870908-4-3",
+    "summary": "This book guides developers through building mobile-optimized websites and hybrid apps for smart devices using HTML5, CSS3, and JavaScript. It covers mobile UX best practices, device APIs, responsive layouts, and cross-platform techniques, including PhoneGap (now Apache Cordova). Aimed at web developers making the leap into mobile, it balances conceptual learning with hands-on examples.",
+    "notes": "Released at a pivotal time when mobile-first was emerging as a serious web standard. Part of SitePoint’s practical, developer-friendly series.",
+    "sourceUrl": "https://www.sitepoint.com/store/build-mobile-websites-and-apps-for-smart-devices/",
+    "certs": [],
+    "domainTags": [
+      "mobile development",
+      "responsive design",
+      "HTML5",
+      "JavaScript",
+      "hybrid apps",
+      "frontend development"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "mobile-marketing-cindy-krum",
+    "type": "book",
+    "title": "Mobile Marketing: Finding Your Customers No Matter Where They Are",
+    "author": "Cindy Krum",
+    "year": "2010",
+    "publisher": "Que Publishing",
+    "isbn": "9780789742566",
+    "summary": "This book provides a comprehensive overview of mobile marketing strategies, helping businesses connect with customers through mobile websites, apps, messaging, and location-aware services. Cindy Krum explains how to integrate mobile into existing digital marketing efforts and optimize content for a wide range of mobile devices and behaviors. It's an accessible resource for marketers adapting to a mobile-first world.",
+    "notes": "Although written in 2010, many strategic frameworks still apply. Covers both technical and business considerations during the rise of smartphones.",
+    "sourceUrl": "https://www.pearson.com/en-us/subject-catalog/p/mobile-marketing/P200000002216/9780789742566",
+    "certs": [],
+    "domainTags": [
+      "mobile marketing",
+      "digital strategy",
+      "SEO",
+      "app marketing",
+      "SMS marketing",
+      "location-based services"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

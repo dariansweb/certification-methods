@@ -1,0 +1,92 @@
+[
+  {
+    "id": "how-to-persuade-michelle-bowden",
+    "type": "book",
+    "title": "How to Persuade: The Skills You Need to Get What You Want",
+    "author": "Michelle Bowden",
+    "year": "2022",
+    "publisher": "Wiley",
+    "isbn": "978-1-119-89187-1",
+    "summary": "This book is a practical guide to mastering the art of ethical persuasion. Michelle Bowden, a communication expert, breaks down persuasive techniques into actionable skills applicable in both professional and personal settings. Using a 5-step persuasion model, real-world examples, and psychological insights, the book equips readers to influence others with confidence, clarity, and integrity.",
+    "notes": "Includes a mix of psychological theory and business-focused application; excellent for professionals in sales, leadership, or negotiation-heavy roles.",
+    "sourceUrl": "https://www.wiley.com/en-us/How+to+Persuade%3A+The+Skills+You+Need+to+Get+What+You+Want-p-9781119891871",
+    "certs": [],
+    "domainTags": [
+      "communication",
+      "persuasion",
+      "leadership",
+      "soft skills",
+      "influence"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "anatomy-101-kevin-langford",
+    "type": "book",
+    "title": "Anatomy 101",
+    "author": "Kevin Langford, Ph.D.",
+    "year": "2015",
+    "publisher": "Adams Media (Simon & Schuster)",
+    "isbn": "978-1-4405-8427-5",
+    "summary": "An accessible introduction to the human body, *Anatomy 101* breaks down complex anatomical concepts into digestible explanations and illustrations. Designed for general readers, students, and lifelong learners, the book covers major body systems, organs, and physiological processes with clarity and visual support. It's part of the 101 series aimed at demystifying academic subjects for a broader audience.",
+    "notes": "Great entry-level resource for self-learners, fitness professionals, or STEM students outside pre-med. Heavily illustrated.",
+    "sourceUrl": "https://www.simonandschuster.com/books/Anatomy-101/Kevin-Langford/Adams-101/9781440584273",
+    "certs": [],
+    "domainTags": [
+      "anatomy",
+      "biology",
+      "science education",
+      "health",
+      "human body"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "foundations-of-mathematics-philip-brown",
+    "type": "book",
+    "title": "Foundations of Mathematics: Algebra, Geometry, Trigonometry, Calculus",
+    "author": "Philip Brown",
+    "year": "2016",
+    "publisher": "Mercury Learning and Information",
+    "isbn": "978-1-942270-75-1",
+    "summary": "This comprehensive textbook offers a unified presentation of the essential foundations of mathematics, including algebra, geometry, trigonometry, and introductory calculus. Written for students preparing for STEM coursework, it emphasizes conceptual understanding, problem-solving skills, and real-world application. It serves both as a complete refresher and as a learning tool for students bridging high school and college-level math.",
+    "notes": "Well-suited for self-learners, STEM-bound undergraduates, and high school enrichment. Developed at Texas A&M Galveston.",
+    "sourceUrl": "https://www.merclearning.com/title/Foundations-of-Mathematics-Algebra-Geometry-Trigonometry-Calculus",
+    "certs": [],
+    "domainTags": [
+      "mathematics",
+      "algebra",
+      "geometry",
+      "trigonometry",
+      "calculus",
+      "STEM education"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "good-math-mark-chu-carroll",
+    "type": "book",
+    "title": "Good Math: A Geek’s Guide to the Beauty of Numbers, Logic, and Computation",
+    "author": "Mark C. Chu-Carroll",
+    "year": "2013",
+    "publisher": "The Pragmatic Bookshelf",
+    "isbn": "978-1-937785-33-8",
+    "summary": "This book explores the beauty and elegance of mathematics from a computer scientist’s perspective. Mark C. Chu-Carroll takes readers on a tour through numbers, logic, proofs, set theory, combinatorics, algebra, and computation. Blending clarity with geeky humor, *Good Math* celebrates both theoretical math and its real-world relevance to programming and problem-solving.",
+    "notes": "Originally inspired by the author's blog 'Good Math, Bad Math'; blends informal tone with deep rigor. Accessible to programmers and curious learners.",
+    "sourceUrl": "https://pragprog.com/titles/mcmath/good-math/",
+    "certs": [],
+    "domainTags": [
+      "mathematics",
+      "logic",
+      "computation",
+      "number theory",
+      "computer science",
+      "STEM"
+    ],
+    "status": "published",
+    "references": []
+  }
+]

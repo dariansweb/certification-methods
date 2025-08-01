@@ -1,0 +1,92 @@
+[
+  {
+    "id": "beginning-digital-image-processing-montabone",
+    "type": "book",
+    "title": "Beginning Digital Image Processing: Using Free Tools for Photographers",
+    "author": "Sebastian Montabone",
+    "year": "2010",
+    "publisher": "Apress",
+    "isbn": "978-1-4302-2842-4",
+    "summary": "This beginner-friendly book introduces digital image processing techniques using freely available tools such as GIMP, ImageMagick, and Octave. Aimed at photographers and hobbyists, it covers essential topics like color correction, image filtering, enhancement, restoration, and basic analysis. The focus is on achieving professional results without expensive software or programming experience.",
+    "notes": "Practical, hands-on guide with real-world examples. Great for self-learners, students, and hobbyist photographers working in open-source environments.",
+    "sourceUrl": "https://link.springer.com/book/10.1007/978-1-4302-2842-4",
+    "certs": [],
+    "domainTags": [
+      "digital imaging",
+      "photography",
+      "graphic design",
+      "image processing",
+      "open source"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "graphics-programming-black-book-michael-abrash",
+    "type": "book",
+    "title": "Graphics Programming Black Book, Special Edition",
+    "author": "Michael Abrash",
+    "year": "1997",
+    "publisher": "The Coriolis Group",
+    "isbn": "1-57610-174-6",
+    "summary": "This massive, cult-classic tome collects Michael Abrash's writings on graphics programming, game engine internals, and CPU-level optimization. Covering everything from Mode X to ray casting, polygon rendering, and memory management, it gives a rare inside look into performance-centric programming on x86 hardware. The book reflects lessons learned from building Quake and other early game engines, making it a treasure trove for graphics developers and systems programmers.",
+    "notes": "Includes the legendary DOOM and Quake code breakdowns. Dense, deep, and still respected by graphics engineers today. Now freely available online in various formats.",
+    "sourceUrl": "https://www.jagregory.com/abrash-black-book/",
+    "certs": [],
+    "domainTags": [
+      "graphics programming",
+      "game development",
+      "assembly",
+      "x86 optimization",
+      "systems programming",
+      "legacy computing"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "launching-the-imagination-3d-mary-stewart",
+    "type": "book",
+    "title": "Launching the Imagination: A Guide to Three-Dimensional Design (Third Edition)",
+    "author": "Mary Stewart",
+    "year": "2009",
+    "publisher": "McGraw Hill",
+    "isbn": "9780073379272",
+    "summary": "This comprehensive textbook introduces students to the core principles and practices of three-dimensional design. Mary Stewart blends theory, critique, and hands-on exploration through a structured curriculum focused on form, space, scale, surface, materials, and context. The third edition expands coverage of digital tools, sustainability, and conceptual thinking, making it a widely adopted text in design and art programs.",
+    "notes": "Commonly used in foundational 3D design courses in art schools and universities. Rich with illustrations, student exercises, and design process guidance.",
+    "sourceUrl": "https://www.mheducation.com/highered/product/launching-imagination-guide-three-dimensional-design-stewart/M9780073379272.html",
+    "certs": [],
+    "domainTags": [
+      "3D design",
+      "visual arts",
+      "design principles",
+      "sculpture",
+      "creative process"
+    ],
+    "status": "published",
+    "references": []
+  },
+  {
+    "id": "digital-image-processing-series-zhou-wu-zhang",
+    "type": "book",
+    "title": "Digital Image Processing (Parts 1–4)",
+    "author": "Huiyu Zhou, Jaihua Wu, Jianguo Zhang",
+    "year": "2010",
+    "publisher": "Venus Publishing ApS / Bookboon.com",
+    "isbn": "978-87-7681-541-7",
+    "summary": "This four-part series offers a comprehensive introduction to digital image processing, covering theory, practical algorithms, and real-world applications. Topics include image enhancement, transformation, segmentation, restoration, and compression. Designed for students and self-learners, the series features diagrams, mathematical models, and programming exercises that build knowledge incrementally from beginner to advanced.",
+    "notes": "Originally distributed for free via Bookboon.com. Widely used in academic settings for introductory and intermediate courses in computer vision and image analysis.",
+    "sourceUrl": "https://bookboon.com/en/digital-image-processing-ebook",
+    "certs": [],
+    "domainTags": [
+      "image processing",
+      "computer vision",
+      "graphics",
+      "digital imaging",
+      "mathematics",
+      "algorithms"
+    ],
+    "status": "published",
+    "references": []
+  }
+]
