@@ -39,6 +39,7 @@ nav a {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-weight: 500;
+  decoration: none;
 }
 
 
@@ -86,13 +87,13 @@ p {
   line-height: 1.75;
 }
 
-a {
+/* a {
   color: var(--accent);
   text-decoration: none;
 }
 a:hover {
-  text-decoration: underline;
-}
+  text-decoration: none;
+} */
 
 /* =============================== */
 /*        Code and Blocks          */

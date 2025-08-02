@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <main className="min-h-screen p-10 bg-zinc-950 text-white">
       <h2 className="text-center text-3xl sm:text-4xl font-serif italic text-zinc-300 mb-12 tracking-widest">
-        🜂 The 16 Sigils of Path Illumination
+        🜂 The Sigils of Path Illumination
       </h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-8">
