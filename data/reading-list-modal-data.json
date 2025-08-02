@@ -1,0 +1,723 @@
+[
+  {
+    "id": "assessing-information-security",
+    "title": "Assessing Information Security: Strategies, Tactics, Logic and Framework",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/assessing-information-security"
+  },
+  {
+    "id": "black-hat-python-2nd-edition",
+    "title": "Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters",
+    "categories": [
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/black-hat-python-2nd-edition"
+  },
+  {
+    "id": "official-ceh-review-guide",
+    "title": "Official Certified Ethical Hacker Review Guide",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/official-ceh-review-guide"
+  },
+  {
+    "id": "coding-for-penetration-testers",
+    "title": "Coding for Penetration Testers: Building Better Tools",
+    "categories": [
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/coding-for-penetration-testers"
+  },
+  {
+    "id": "comptia-pentest-plus-practice-test-pt0-001",
+    "title": "CompTIA PenTest+ Practice Test: Exam PT0-001",
+    "categories": [
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/comptia-pentest-plus-practice-test-pt0-001"
+  },
+  {
+    "id": "comptia-security-plus-sy0-701",
+    "title": "CompTIA Security+ SY0-701",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/comptia-security-plus-sy0-701"
+  },
+  {
+    "id": "how-the-cloud-upended-security",
+    "title": "How the Cloud Upended Security: Misconfiguration and Control Plane Compromise Risk",
+    "categories": [
+      "Secure Coding & Application Security",
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/how-the-cloud-upended-security"
+  },
+  {
+    "id": "cybersecurity-and-privacy-law-handbook",
+    "title": "Cybersecurity and Privacy Law Handbook: A Beginner\u2019s Guide to Dealing with Privacy and Security While Keeping Hackers at Bay",
+    "categories": [
+      "Foundations & Strategy",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cybersecurity-and-privacy-law-handbook"
+  },
+  {
+    "id": "cybersecurity-attack-and-defense-strategies-2e",
+    "title": "Cybersecurity \u2013 Attack and Defense Strategies, Second Edition: Counter Modern Threats and Employ State-of-the-Art Tools and Techniques to Protect Your Organization Against Cybercriminals",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cybersecurity-attack-and-defense-strategies-2e"
+  },
+  {
+    "id": "cybersecurity-myths-and-misconceptions",
+    "title": "Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us",
+    "categories": [
+      "Foundations & Strategy",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cybersecurity-myths-and-misconceptions"
+  },
+  {
+    "id": "cybersecurity-ops-with-bash",
+    "title": "Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cybersecurity-ops-with-bash"
+  },
+  {
+    "id": "cybersecurity-the-beginners-guide",
+    "title": "Cybersecurity: The Beginner's Guide \u2013 A Comprehensive Guide to Getting Started in Cybersecurity",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cybersecurity-the-beginners-guide"
+  },
+  {
+    "id": "data-breaches-crisis-and-opportunity",
+    "title": "Data Breaches: Crisis and Opportunity",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/data-breaches-crisis-and-opportunity"
+  },
+  {
+    "id": "database-and-application-security",
+    "title": "Database and Application Security: A Practitioner\u2019s Guide",
+    "categories": [
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/database-and-application-security"
+  },
+  {
+    "id": "designing-developing-secure-azure-solutions",
+    "title": "Designing and Developing Secure Azure Solutions",
+    "categories": [
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/designing-developing-secure-azure-solutions"
+  },
+  {
+    "id": "effective-cybersecurity",
+    "title": "Effective Cybersecurity: Understanding and Using Standards and Best Practices",
+    "categories": [
+      "Foundations & Strategy",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/effective-cybersecurity"
+  },
+  {
+    "id": "ethical-hacking-hands-on-introduction",
+    "title": "Ethical Hacking: A Hands-on Introduction to Breaking In",
+    "categories": [
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/ethical-hacking-hands-on-introduction"
+  },
+  {
+    "id": "ethical-hacking-student-guide-iss",
+    "title": "Ethical Hacking Student Guide",
+    "categories": [
+      "Offensive Security",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/ethical-hacking-student-guide-iss"
+  },
+  {
+    "id": "how-to-hack-like-a-ghost",
+    "title": "How to Hack Like a Ghost: Breaching the Cloud",
+    "categories": [
+      "Offensive Security",
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/how-to-hack-like-a-ghost"
+  },
+  {
+    "id": "in-zero-trust-we-trust",
+    "title": "In Zero Trust We Trust",
+    "categories": [
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/in-zero-trust-we-trust"
+  },
+  {
+    "id": "information-privacy-engineering-and-privacy-by-design",
+    "title": "Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices",
+    "categories": [
+      "Secure Coding & Application Security",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/information-privacy-engineering-and-privacy-by-design"
+  },
+  {
+    "id": "learn-ethical-hacking-from-scratch",
+    "title": "Learn Ethical Hacking from Scratch: Your Stepping Stone to Penetration Testing",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/learn-ethical-hacking-from-scratch"
+  },
+  {
+    "id": "microsoft-azure-network-security",
+    "title": "Microsoft Azure Network Security",
+    "categories": [
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/microsoft-azure-network-security"
+  },
+  {
+    "id": "microsoft-defender-for-cloud",
+    "title": "Microsoft Defender for Cloud",
+    "categories": [
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/microsoft-defender-for-cloud"
+  },
+  {
+    "id": "microsoft-sentinel-2e",
+    "title": "Microsoft Sentinel: Planning and Implementing Microsoft's Cloud-Native SIEM Solution, Second Edition",
+    "categories": [
+      "Defensive Security",
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/microsoft-sentinel-2e"
+  },
+  {
+    "id": "microsoft-windows-security-essentials",
+    "title": "Microsoft Windows Security Essentials",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/microsoft-windows-security-essentials"
+  },
+  {
+    "id": "the-modern-security-operations-center",
+    "title": "The Modern Security Operations Center: The People, Process, and Technology for Operating SOC Services",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/the-modern-security-operations-center"
+  },
+  {
+    "id": "network-security-private-communication-3e",
+    "title": "Network Security: Private Communication in a Public World, Third Edition",
+    "categories": [
+      "Foundations & Strategy",
+      "Cryptography & Authentication",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/network-security-private-communication-3e"
+  },
+  {
+    "id": "network-security-essentials-4e",
+    "title": "Network Security Essentials: Applications and Standards, Fourth Edition",
+    "categories": [
+      "Foundations & Strategy",
+      "Cryptography & Authentication",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/network-security-essentials-4e"
+  },
+  {
+    "id": "oauth2-and-openid-connect-beta",
+    "title": "OAuth2 and OpenID Connect: The Professional Guide \u2013 Beta",
+    "categories": [
+      "Cryptography & Authentication"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/oauth2-and-openid-connect-beta"
+  },
+  {
+    "id": "practical-cyber-intelligence",
+    "title": "Practical Cyber Intelligence: How Action-Based Intelligence Can Be an Effective Response to Incidents",
+    "categories": [
+      "Defensive Security",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/practical-cyber-intelligence"
+  },
+  {
+    "id": "practical-guide-to-digital-forensics",
+    "title": "A Practical Guide to Digital Forensics Investigations",
+    "categories": [
+      "Defensive Security",
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/practical-guide-to-digital-forensics"
+  },
+  {
+    "id": "practical-intrusion-analysis",
+    "title": "Practical Intrusion Analysis: Prevention and Detection for the Twenty-First Century",
+    "categories": [
+      "Defensive Security",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/practical-intrusion-analysis"
+  },
+  {
+    "id": "ransomware-and-cyber-extortion",
+    "title": "Ransomware and Cyber Extortion: Response and Prevention",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/ransomware-and-cyber-extortion"
+  },
+  {
+    "id": "real-world-cryptography",
+    "title": "Real-World Cryptography",
+    "categories": [
+      "Cryptography & Authentication"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/real-world-cryptography"
+  },
+  {
+    "id": "secret-key-cryptography",
+    "title": "Secret Key Cryptography: Ciphers, from Simple to Unbreakable",
+    "categories": [
+      "Cryptography & Authentication"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/secret-key-cryptography"
+  },
+  {
+    "id": "securing-5g-and-evolving-architectures",
+    "title": "Securing 5G and Evolving Architectures",
+    "categories": [
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/securing-5g-and-evolving-architectures"
+  },
+  {
+    "id": "comptia-security-plus-study-guide-6e",
+    "title": "CompTIA Security+ Study Guide, Sixth Edition",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/comptia-security-plus-study-guide-6e"
+  },
+  {
+    "id": "sql-injection-attacks-and-defense",
+    "title": "SQL Injection Attacks and Defense",
+    "categories": [
+      "Offensive Security",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/sql-injection-attacks-and-defense"
+  },
+  {
+    "id": "the-antivirus-hackers-handbook",
+    "title": "The Antivirus Hacker\u2019s Handbook",
+    "categories": [
+      "Defensive Security",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/the-antivirus-hackers-handbook"
+  },
+  {
+    "id": "basics-of-information-security",
+    "title": "The Basics of Information Security: Understanding the Fundamentals of InfoSec in Theory and Practice",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/basics-of-information-security"
+  },
+  {
+    "id": "thors-microsoft-security-bible",
+    "title": "Thor's Microsoft Security Bible: A Collection of Practical Security Techniques",
+    "categories": [
+      "Offensive Security",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/thors-microsoft-security-bible"
+  },
+  {
+    "id": "mastering-windows-security-and-hardening-2e",
+    "title": "Mastering Windows Security and Hardening, Second Edition: Secure and Protect Your Windows Environment from Cyber Threats Using Zero-Trust Security Principles",
+    "categories": [
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/mastering-windows-security-and-hardening-2e"
+  },
+  {
+    "id": "zero-trust-architecture",
+    "title": "Zero Trust Architecture",
+    "categories": [
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/zero-trust-architecture"
+  },
+  {
+    "id": "information-security-handbook",
+    "title": "Information Security Handbook: Develop a Threat Model and Incident Response Strategy to Build a Strong Information Security Framework",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/information-security-handbook"
+  },
+  {
+    "id": "computer-security-handbook-6e",
+    "title": "Computer Security Handbook, Sixth Edition",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/computer-security-handbook-6e"
+  },
+  {
+    "id": "the-art-of-attack",
+    "title": "The Art of Attack: Attacker Mindset for Security Professionals",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/the-art-of-attack"
+  },
+  {
+    "id": "unauthorised-access-physical-pentest",
+    "title": "Unauthorised Access: Physical Penetration Testing for IT Security Teams",
+    "categories": [
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/unauthorised-access-physical-pentest"
+  },
+  {
+    "id": "social-engineering-science-of-human-hacking",
+    "title": "Social Engineering: The Science of Human Hacking",
+    "categories": [
+      "Offensive Security",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/social-engineering-science-of-human-hacking"
+  },
+  {
+    "id": "foundations-of-information-security",
+    "title": "Foundations of Information Security: A Straightforward Introduction",
+    "categories": [
+      "Foundations & Strategy",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/foundations-of-information-security"
+  },
+  {
+    "id": "software-transparency-supply-chain-security",
+    "title": "Software Transparency: Supply Chain Security in an Era of a Software-Driven Society",
+    "categories": [
+      "Foundations & Strategy",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/software-transparency-supply-chain-security"
+  },
+  {
+    "id": "enterprise-security-data-centric-approach",
+    "title": "Enterprise Security: A Data-Centric Approach to Securing the Enterprise",
+    "categories": [
+      "Foundations & Strategy",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/enterprise-security-data-centric-approach"
+  },
+  {
+    "id": "cryptography-and-network-security-5e",
+    "title": "Cryptography and Network Security: Principles and Practice, Fifth Edition",
+    "categories": [
+      "Cryptography & Authentication",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cryptography-and-network-security-5e"
+  },
+  {
+    "id": "the-art-of-deception",
+    "title": "The Art of Deception: Controlling the Human Element of Security",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/the-art-of-deception"
+  },
+  {
+    "id": "transformational-security-awareness",
+    "title": "Transformational Security Awareness: What Neuroscientists, Storytellers, and Marketers Can Teach Us About Driving Secure Behaviors",
+    "categories": [
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/transformational-security-awareness"
+  },
+  {
+    "id": "threat-modeling-designing-for-security",
+    "title": "Threat Modeling: Designing for Security",
+    "categories": [
+      "Cyber Threat Intelligence",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/threat-modeling-designing-for-security"
+  },
+  {
+    "id": "hacking-a-terror-network",
+    "title": "Hacking a Terror Network: The Silent Threat of Covert Channels",
+    "categories": [
+      "Cyber Threat Intelligence",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/hacking-a-terror-network"
+  },
+  {
+    "id": "cybersecurity-and-third-party-risk",
+    "title": "Cybersecurity and Third-Party Risk: Third Party Threat Hunting",
+    "categories": [
+      "Foundations & Strategy",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cybersecurity-and-third-party-risk"
+  },
+  {
+    "id": "security-culture-playbook",
+    "title": "The Security Culture Playbook",
+    "categories": [
+      "Foundations & Strategy",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/security-culture-playbook"
+  },
+  {
+    "id": "secrets-and-lies-15th-anniversary",
+    "title": "Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/secrets-and-lies-15th-anniversary"
+  },
+  {
+    "id": "windows-forensics-cookbook",
+    "title": "Windows Forensics Cookbook: 61 Recipes to Help You Analyze Windows Systems",
+    "categories": [
+      "Defensive Security",
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/windows-forensics-cookbook"
+  },
+  {
+    "id": "digital-forensics-and-incident-response",
+    "title": "Digital Forensics and Incident Response: An Intelligent Way to Respond to Attacks",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/digital-forensics-and-incident-response"
+  },
+  {
+    "id": "practical-windows-forensics",
+    "title": "Practical Windows Forensics: Leverage the Power of Digital Forensics for Windows Systems",
+    "categories": [
+      "Defensive Security",
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/practical-windows-forensics"
+  },
+  {
+    "id": "practical-mobile-forensics-3e",
+    "title": "Practical Mobile Forensics, Third Edition",
+    "categories": [
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/practical-mobile-forensics-3e"
+  },
+  {
+    "id": "practical-forensic-imaging",
+    "title": "Practical Forensic Imaging: Securing Digital Evidence with Linux Tools",
+    "categories": [
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/practical-forensic-imaging"
+  },
+  {
+    "id": "learning-network-forensics",
+    "title": "Learning Network Forensics: Identify and Safeguard Your Network Against Both Internal and External Threats, Hackers, and Malware Attacks",
+    "categories": [
+      "Defensive Security",
+      "Digital Forensics & DFIR",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/learning-network-forensics"
+  },
+  {
+    "id": "tribe-of-hackers",
+    "title": "Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/tribe-of-hackers"
+  },
+  {
+    "id": "tribe-of-hackers-blue-team",
+    "title": "Tribe of Hackers Blue Team",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/tribe-of-hackers-blue-team"
+  },
+  {
+    "id": "tribe-of-hackers-red-team",
+    "title": "Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity",
+    "categories": [
+      "Offensive Security",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/tribe-of-hackers-red-team"
+  },
+  {
+    "id": "tribe-of-hackers-security-leaders",
+    "title": "Tribe of Hackers: Security Leaders",
+    "categories": [
+      "Foundations & Strategy"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/tribe-of-hackers-security-leaders"
+  },
+  {
+    "id": "security-development-lifecycle",
+    "title": "The Security Development Lifecycle: A Process for Developing Demonstrably More Secure Software",
+    "categories": [
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/security-development-lifecycle"
+  },
+  {
+    "id": "art-of-memory-forensics",
+    "title": "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",
+    "categories": [
+      "Defensive Security",
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/art-of-memory-forensics"
+  },
+  {
+    "id": "cyberjutsu",
+    "title": "Cyberjutsu: Cybersecurity for the Modern Ninja",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "notesUri": "/notes/cyberjutsu"
+  }
+]

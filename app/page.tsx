@@ -10,9 +10,14 @@ export default function Home() {
 
   return (
     <main className="min-h-screen p-10 bg-zinc-950 text-white">
-      <h2 className="text-center text-3xl sm:text-4xl font-serif italic text-zinc-300 mb-12 tracking-widest">
-        🜂 The Sigils of Path Illumination
-      </h2>
+      <div className="text-center mb-12">
+        <h2 className="text-3xl sm:text-4xl font-serif italic text-zinc-300 tracking-widest">
+          🜂 Path Illumination
+        </h2>
+        <h3 className="text-lg sm:text-xl font-serif italic text-zinc-400 mt-2 tracking-wider">
+          The Arcana of Certification Methods
+        </h3>
+      </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-8">
         {sortedDomains.map(({ slug, name, emoji, description }) => (

@@ -1,0 +1,895 @@
+{
+  "comptia-pentest-plus-practice-test-pt0-001": {
+    "title": "CompTIA PenTest+ Practice Test: Exam PT0-001",
+    "categories": ["Offensive Security"],
+    "level": "Beginner",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "This book is structured like a practice workbook. Useful for testing readiness, less so for in-depth conceptual learning."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Know your tools: Nmap, Wireshark, Metasploit",
+          "Understand rules of engagement",
+          "Practice passive vs active reconnaissance"
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "Failing to plan is planning to fail.",
+        "source": "Some IT trainer in 2004 probably"
+      }
+    ]
+  },
+  "assessing-information-security": {
+    "title": "Assessing Information Security: Strategies, Tactics, Logic and Framework",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "black-hat-python-2nd-edition": {
+    "title": "Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters",
+    "categories": ["Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "official-ceh-review-guide": {
+    "title": "Official Certified Ethical Hacker Review Guide",
+    "categories": ["Foundations & Strategy", "Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "coding-for-penetration-testers": {
+    "title": "Coding for Penetration Testers: Building Better Tools",
+    "categories": ["Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "comptia-security-plus-sy0-701": {
+    "title": "CompTIA Security+ SY0-701",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "how-the-cloud-upended-security": {
+    "title": "How the Cloud Upended Security: Misconfiguration and Control Plane Compromise Risk",
+    "categories": [
+      "Secure Coding & Application Security",
+      "Cloud & Infrastructure Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cybersecurity-and-privacy-law-handbook": {
+    "title": "Cybersecurity and Privacy Law Handbook: A Beginner\u2019s Guide to Dealing with Privacy and Security While Keeping Hackers at Bay",
+    "categories": ["Foundations & Strategy", "Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cybersecurity-attack-and-defense-strategies-2e": {
+    "title": "Cybersecurity \u2013 Attack and Defense Strategies, Second Edition: Counter Modern Threats and Employ State-of-the-Art Tools and Techniques to Protect Your Organization Against Cybercriminals",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cybersecurity-myths-and-misconceptions": {
+    "title": "Cybersecurity Myths and Misconceptions: Avoiding the Hazards and Pitfalls that Derail Us",
+    "categories": ["Foundations & Strategy", "Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cybersecurity-ops-with-bash": {
+    "title": "Cybersecurity Ops with Bash: Attack, Defend, and Analyze from the Command Line",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Offensive Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cybersecurity-the-beginners-guide": {
+    "title": "Cybersecurity: The Beginner's Guide \u2013 A Comprehensive Guide to Getting Started in Cybersecurity",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "data-breaches-crisis-and-opportunity": {
+    "title": "Data Breaches: Crisis and Opportunity",
+    "categories": ["Foundations & Strategy", "Defensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "database-and-application-security": {
+    "title": "Database and Application Security: A Practitioner\u2019s Guide",
+    "categories": ["Secure Coding & Application Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "designing-developing-secure-azure-solutions": {
+    "title": "Designing and Developing Secure Azure Solutions",
+    "categories": ["Cloud & Infrastructure Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "effective-cybersecurity": {
+    "title": "Effective Cybersecurity: Understanding and Using Standards and Best Practices",
+    "categories": ["Foundations & Strategy", "Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "ethical-hacking-hands-on-introduction": {
+    "title": "Ethical Hacking: A Hands-on Introduction to Breaking In",
+    "categories": ["Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "ethical-hacking-student-guide-iss": {
+    "title": "Ethical Hacking Student Guide",
+    "categories": [
+      "Offensive Security",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "how-to-hack-like-a-ghost": {
+    "title": "How to Hack Like a Ghost: Breaching the Cloud",
+    "categories": ["Offensive Security", "Cloud & Infrastructure Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "in-zero-trust-we-trust": {
+    "title": "In Zero Trust We Trust",
+    "categories": ["Cloud & Infrastructure Security", "Network Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "information-privacy-engineering-and-privacy-by-design": {
+    "title": "Information Privacy Engineering and Privacy by Design: Understanding Privacy Threats, Technology, and Regulations Based on Standards and Best Practices",
+    "categories": [
+      "Secure Coding & Application Security",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "learn-ethical-hacking-from-scratch": {
+    "title": "Learn Ethical Hacking from Scratch: Your Stepping Stone to Penetration Testing",
+    "categories": ["Foundations & Strategy", "Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "microsoft-azure-network-security": {
+    "title": "Microsoft Azure Network Security",
+    "categories": ["Cloud & Infrastructure Security", "Network Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "microsoft-defender-for-cloud": {
+    "title": "Microsoft Defender for Cloud",
+    "categories": ["Cloud & Infrastructure Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "microsoft-sentinel-2e": {
+    "title": "Microsoft Sentinel: Planning and Implementing Microsoft's Cloud-Native SIEM Solution, Second Edition",
+    "categories": ["Defensive Security", "Cloud & Infrastructure Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "microsoft-windows-security-essentials": {
+    "title": "Microsoft Windows Security Essentials",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "the-modern-security-operations-center": {
+    "title": "The Modern Security Operations Center: The People, Process, and Technology for Operating SOC Services",
+    "categories": ["Foundations & Strategy", "Defensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "network-security-private-communication-3e": {
+    "title": "Network Security: Private Communication in a Public World, Third Edition",
+    "categories": [
+      "Foundations & Strategy",
+      "Cryptography & Authentication",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "network-security-essentials-4e": {
+    "title": "Network Security Essentials: Applications and Standards, Fourth Edition",
+    "categories": [
+      "Foundations & Strategy",
+      "Cryptography & Authentication",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "oauth2-and-openid-connect-beta": {
+    "title": "OAuth2 and OpenID Connect: The Professional Guide \u2013 Beta",
+    "categories": ["Cryptography & Authentication"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "practical-cyber-intelligence": {
+    "title": "Practical Cyber Intelligence: How Action-Based Intelligence Can Be an Effective Response to Incidents",
+    "categories": ["Defensive Security", "Cyber Threat Intelligence"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "practical-guide-to-digital-forensics": {
+    "title": "A Practical Guide to Digital Forensics Investigations",
+    "categories": ["Defensive Security", "Digital Forensics & DFIR"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "practical-intrusion-analysis": {
+    "title": "Practical Intrusion Analysis: Prevention and Detection for the Twenty-First Century",
+    "categories": [
+      "Defensive Security",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "ransomware-and-cyber-extortion": {
+    "title": "Ransomware and Cyber Extortion: Response and Prevention",
+    "categories": ["Foundations & Strategy", "Defensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "real-world-cryptography": {
+    "title": "Real-World Cryptography",
+    "categories": ["Cryptography & Authentication"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "secret-key-cryptography": {
+    "title": "Secret Key Cryptography: Ciphers, from Simple to Unbreakable",
+    "categories": ["Cryptography & Authentication"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "securing-5g-and-evolving-architectures": {
+    "title": "Securing 5G and Evolving Architectures",
+    "categories": ["Cloud & Infrastructure Security", "Network Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "comptia-security-plus-study-guide-6e": {
+    "title": "CompTIA Security+ Study Guide, Sixth Edition",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "sql-injection-attacks-and-defense": {
+    "title": "SQL Injection Attacks and Defense",
+    "categories": [
+      "Offensive Security",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "the-antivirus-hackers-handbook": {
+    "title": "The Antivirus Hacker\u2019s Handbook",
+    "categories": ["Defensive Security", "Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "basics-of-information-security": {
+    "title": "The Basics of Information Security: Understanding the Fundamentals of InfoSec in Theory and Practice",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "thors-microsoft-security-bible": {
+    "title": "Thor's Microsoft Security Bible: A Collection of Practical Security Techniques",
+    "categories": [
+      "Offensive Security",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "mastering-windows-security-and-hardening-2e": {
+    "title": "Mastering Windows Security and Hardening, Second Edition: Secure and Protect Your Windows Environment from Cyber Threats Using Zero-Trust Security Principles",
+    "categories": ["Cloud & Infrastructure Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "zero-trust-architecture": {
+    "title": "Zero Trust Architecture",
+    "categories": ["Cloud & Infrastructure Security", "Network Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "information-security-handbook": {
+    "title": "Information Security Handbook: Develop a Threat Model and Incident Response Strategy to Build a Strong Information Security Framework",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "computer-security-handbook-6e": {
+    "title": "Computer Security Handbook, Sixth Edition",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "the-art-of-attack": {
+    "title": "The Art of Attack: Attacker Mindset for Security Professionals",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security",
+      "Cyber Threat Intelligence"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "unauthorised-access-physical-pentest": {
+    "title": "Unauthorised Access: Physical Penetration Testing for IT Security Teams",
+    "categories": ["Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "social-engineering-science-of-human-hacking": {
+    "title": "Social Engineering: The Science of Human Hacking",
+    "categories": ["Offensive Security", "Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "foundations-of-information-security": {
+    "title": "Foundations of Information Security: A Straightforward Introduction",
+    "categories": ["Foundations & Strategy", "Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "software-transparency-supply-chain-security": {
+    "title": "Software Transparency: Supply Chain Security in an Era of a Software-Driven Society",
+    "categories": [
+      "Foundations & Strategy",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "enterprise-security-data-centric-approach": {
+    "title": "Enterprise Security: A Data-Centric Approach to Securing the Enterprise",
+    "categories": [
+      "Foundations & Strategy",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cryptography-and-network-security-5e": {
+    "title": "Cryptography and Network Security: Principles and Practice, Fifth Edition",
+    "categories": [
+      "Cryptography & Authentication",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "the-art-of-deception": {
+    "title": "The Art of Deception: Controlling the Human Element of Security",
+    "categories": [
+      "Foundations & Strategy",
+      "Offensive Security",
+      "Privacy, Law & Human Behavior"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "transformational-security-awareness": {
+    "title": "Transformational Security Awareness: What Neuroscientists, Storytellers, and Marketers Can Teach Us About Driving Secure Behaviors",
+    "categories": ["Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "threat-modeling-designing-for-security": {
+    "title": "Threat Modeling: Designing for Security",
+    "categories": [
+      "Cyber Threat Intelligence",
+      "Secure Coding & Application Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "hacking-a-terror-network": {
+    "title": "Hacking a Terror Network: The Silent Threat of Covert Channels",
+    "categories": [
+      "Cyber Threat Intelligence",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cybersecurity-and-third-party-risk": {
+    "title": "Cybersecurity and Third-Party Risk: Third Party Threat Hunting",
+    "categories": ["Foundations & Strategy", "Cyber Threat Intelligence"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "security-culture-playbook": {
+    "title": "The Security Culture Playbook",
+    "categories": ["Foundations & Strategy", "Privacy, Law & Human Behavior"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "secrets-and-lies-15th-anniversary": {
+    "title": "Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "windows-forensics-cookbook": {
+    "title": "Windows Forensics Cookbook: 61 Recipes to Help You Analyze Windows Systems",
+    "categories": ["Defensive Security", "Digital Forensics & DFIR"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "digital-forensics-and-incident-response": {
+    "title": "Digital Forensics and Incident Response: An Intelligent Way to Respond to Attacks",
+    "categories": [
+      "Foundations & Strategy",
+      "Defensive Security",
+      "Digital Forensics & DFIR"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "practical-windows-forensics": {
+    "title": "Practical Windows Forensics: Leverage the Power of Digital Forensics for Windows Systems",
+    "categories": ["Defensive Security", "Digital Forensics & DFIR"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "practical-mobile-forensics-3e": {
+    "title": "Practical Mobile Forensics, Third Edition",
+    "categories": ["Digital Forensics & DFIR"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "practical-forensic-imaging": {
+    "title": "Practical Forensic Imaging: Securing Digital Evidence with Linux Tools",
+    "categories": ["Digital Forensics & DFIR"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "learning-network-forensics": {
+    "title": "Learning Network Forensics: Identify and Safeguard Your Network Against Both Internal and External Threats, Hackers, and Malware Attacks",
+    "categories": [
+      "Defensive Security",
+      "Digital Forensics & DFIR",
+      "Cloud & Infrastructure Security",
+      "Network Security"
+    ],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "tribe-of-hackers": {
+    "title": "Tribe of Hackers: Cybersecurity Advice from the Best Hackers in the World",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "tribe-of-hackers-blue-team": {
+    "title": "Tribe of Hackers Blue Team",
+    "categories": ["Foundations & Strategy", "Defensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "tribe-of-hackers-red-team": {
+    "title": "Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity",
+    "categories": ["Offensive Security", "Cyber Threat Intelligence"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "tribe-of-hackers-security-leaders": {
+    "title": "Tribe of Hackers: Security Leaders",
+    "categories": ["Foundations & Strategy"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "security-development-lifecycle": {
+    "title": "The Security Development Lifecycle: A Process for Developing Demonstrably More Secure Software",
+    "categories": ["Cyber Threat Intelligence"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "art-of-memory-forensics": {
+    "title": "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",
+    "categories": ["Defensive Security", "Digital Forensics & DFIR"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  },
+  "cyberjutsu": {
+    "title": "Cyberjutsu: Cybersecurity for the Modern Ninja",
+    "categories": ["Foundations & Strategy", "Offensive Security"],
+    "level": "Unknown",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Notes not available on this book yet."
+      }
+    ]
+  }
+}
