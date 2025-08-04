@@ -1,0 +1,164 @@
+{
+  "plan": "CySA+ Analyst Ascension",
+  "phases": [
+    {
+      "phase": "30 Days: The Analyst Awakens",
+      "goal": "Build fluency in what a SOC Analyst actually does.",
+      "books": [
+        "Modern SOC",
+        "Effective Cybersecurity",
+        "Sentinel",
+        "Windows Defender",
+        "Basics of InfoSec"
+      ],
+      "tasks": [
+        "Start your Tracker Sheet",
+        "Build Scroll I and Scroll V",
+        "Configure your own SIEM lab (or use Splunk's free cloud version)"
+      ]
+    },
+    {
+      "phase": "Day 31\u201360: Into the Kill Chain",
+      "goal": "Understand attacks, vulnerabilities, and incident workflows.",
+      "books": [
+        "Pentest+ series",
+        "Digital Forensics",
+        "Ransomware & Extortion",
+        "SQL Injection",
+        "Black Hat Python"
+      ],
+      "tasks": [
+        "Add to Scrolls II & III",
+        "Build mock IR workflows from ECIH content",
+        "Try building a basic vuln report and risk ranking spreadsheet"
+      ]
+    },
+    {
+      "phase": "Day 61\u201390: Architect & Communicate Like a Pro",
+      "goal": "Elevate your knowledge to infrastructure and boardroom levels.",
+      "books": [
+        "Zero Trust (Cisco + Packt)",
+        "Privacy Engineering",
+        "Windows Hardening",
+        "Thor\u2019s Bible",
+        "Cybersecurity Myths"
+      ],
+      "tasks": [
+        "Add to Scrolls IV & V",
+        "Draft an executive summary of a mock incident",
+        "Create a hardened architecture diagram for a ZT network"
+      ]
+    }
+  ],
+  "scrolls": {
+    "Scroll I": {
+      "name": "The Eye of the SOC",
+      "domain": "Domain 1",
+      "tools": [
+        "SIEM",
+        "EDR",
+        "log analysis",
+        "alerts"
+      ],
+      "strategy": [
+        "Detection rules",
+        "triage",
+        "threat hunting"
+      ],
+      "books": [
+        "Modern SOC",
+        "Sentinel",
+        "Snort",
+        "Bash Ops",
+        "Windows Defender",
+        "Thor's Bible"
+      ]
+    },
+    "Scroll II": {
+      "name": "Map of the Exposed Lands",
+      "domain": "Domain 2",
+      "tools": [
+        "Vuln scanners",
+        "patching strategy",
+        "CVSS scoring"
+      ],
+      "strategy": [
+        "Prioritization",
+        "compliance",
+        "weak config ID"
+      ],
+      "books": [
+        "Pentest+",
+        "SQL Injection",
+        "Assessing InfoSec",
+        "Black Hat Python",
+        "Unix Hacknotes"
+      ]
+    },
+    "Scroll III": {
+      "name": "The Blade of Containment",
+      "domain": "Domain 3",
+      "tools": [
+        "IR platforms",
+        "case mgmt",
+        "forensics"
+      ],
+      "strategy": [
+        "Containment",
+        "Eradication",
+        "Recovery",
+        "Post-mortem"
+      ],
+      "books": [
+        "ECIH",
+        "Digital Forensics",
+        "Ransomware Response",
+        "Graham\u2019s Ethical Hacking",
+        "Windows Security Bible"
+      ]
+    },
+    "Scroll IV": {
+      "name": "The Voice of the Analyst",
+      "domain": "Domain 4",
+      "tools": [
+        "Report frameworks",
+        "audit docs",
+        "chain of custody"
+      ],
+      "strategy": [
+        "Communicating risk to mgmt",
+        "translating nerd into board-speak"
+      ],
+      "books": [
+        "Cybersecurity Myths",
+        "Effective Cybersecurity",
+        "Privacy by Design",
+        "Security+ Guide",
+        "Information Privacy Engineering"
+      ]
+    },
+    "Scroll V": {
+      "name": "The Bastion of the Architect",
+      "domain": "Domain 5",
+      "tools": [
+        "NAC",
+        "SASE",
+        "Zero Trust",
+        "segmentation",
+        "identity mgmt"
+      ],
+      "strategy": [
+        "Hardening",
+        "policy enforcement",
+        "secure design"
+      ],
+      "books": [
+        "Zero Trust (Cisco + Packt)",
+        "Windows Hardening",
+        "Thor\u2019s Bible",
+        "Mastering AD",
+        "Real-World Cryptography"
+      ]
+    }
+  }
+}
